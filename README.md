@@ -1,5 +1,5 @@
 # Driver-Apex-Commord
-The driver for the apex cheat with a diff hook since the eac is bad
+The driver for the apex cheat with a diff hook since the eac is bad and different comm method
 
 (Patch 1.0.0)
 - Found Source to use
@@ -8,3 +8,6 @@ The driver for the apex cheat with a diff hook since the eac is bad
 - Added an custom attach function kernelly
 - Added a new sig for the data ptr hook
 - Fixed an error so that the driver can receive calls
+
+
+Used a base from github but heavily modified
